@@ -1,3 +1,3 @@
-# Code_Interview
+# CodeInterview
 
 * JS & C#
